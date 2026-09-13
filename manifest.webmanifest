@@ -1,0 +1,15 @@
+{
+  "name": "Voyara Smart Travel Planner",
+  "short_name": "Voyara",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f7fb",
+  "theme_color": "#5a50d6",
+  "icons": [
+    {
+      "src": "assets/images/ui/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

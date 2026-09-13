@@ -1,0 +1,1 @@
+const CACHE='voyara-v1';const CORE=['./','./index.html','./assets/css/styles.css','./assets/js/app.js','./assets/images/ui/favicon.svg'];self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE))));self.addEventListener('fetch',e=>e.respondWith(caches.match(e.request).then(r=>r||fetch(e.request))));

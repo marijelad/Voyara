@@ -1,0 +1,226 @@
+[
+  {
+    "slug": "paris",
+    "name": "Paris",
+    "country": "France",
+    "region": "Europe",
+    "tagline": "Art, caf\u00e9s & timeless streets",
+    "image": "assets/images/destinations/paris.svg",
+    "dailyBudget": 185,
+    "recommendedDays": 4,
+    "bestTime": "Apr\u2013Jun \u00b7 Sep\u2013Oct",
+    "highlights": [
+      "Louvre morning",
+      "Seine walk",
+      "Montmartre sunset"
+    ]
+  },
+  {
+    "slug": "tokyo",
+    "name": "Tokyo",
+    "country": "Japan",
+    "region": "Asia",
+    "tagline": "Neon energy & quiet rituals",
+    "image": "assets/images/destinations/tokyo.svg",
+    "dailyBudget": 170,
+    "recommendedDays": 5,
+    "bestTime": "Mar\u2013May \u00b7 Oct\u2013Nov",
+    "highlights": [
+      "Tsukiji breakfast",
+      "Shibuya crossing",
+      "Meiji Shrine"
+    ]
+  },
+  {
+    "slug": "bali",
+    "name": "Bali",
+    "country": "Indonesia",
+    "region": "Asia",
+    "tagline": "Rice terraces & island calm",
+    "image": "assets/images/destinations/bali.svg",
+    "dailyBudget": 95,
+    "recommendedDays": 6,
+    "bestTime": "Apr\u2013Oct",
+    "highlights": [
+      "Ubud sunrise",
+      "Temple route",
+      "Uluwatu coast"
+    ]
+  },
+  {
+    "slug": "rome",
+    "name": "Rome",
+    "country": "Italy",
+    "region": "Europe",
+    "tagline": "Ancient layers & long lunches",
+    "image": "assets/images/destinations/rome.svg",
+    "dailyBudget": 155,
+    "recommendedDays": 4,
+    "bestTime": "Apr\u2013Jun \u00b7 Sep\u2013Oct",
+    "highlights": [
+      "Colosseum early entry",
+      "Trastevere evening",
+      "Vatican Museums"
+    ]
+  },
+  {
+    "slug": "lisbon",
+    "name": "Lisbon",
+    "country": "Portugal",
+    "region": "Europe",
+    "tagline": "Hills, tiles & Atlantic light",
+    "image": "assets/images/destinations/lisbon.svg",
+    "dailyBudget": 125,
+    "recommendedDays": 4,
+    "bestTime": "Mar\u2013Jun \u00b7 Sep\u2013Oct",
+    "highlights": [
+      "Alfama walk",
+      "Bel\u00e9m afternoon",
+      "Miradouro sunset"
+    ]
+  },
+  {
+    "slug": "new-york",
+    "name": "New York",
+    "country": "United States",
+    "region": "North America",
+    "tagline": "Big-city icons & neighborhood finds",
+    "image": "assets/images/destinations/new-york.svg",
+    "dailyBudget": 240,
+    "recommendedDays": 5,
+    "bestTime": "Apr\u2013Jun \u00b7 Sep\u2013Nov",
+    "highlights": [
+      "High Line",
+      "Brooklyn evening",
+      "Museum day"
+    ]
+  },
+  {
+    "slug": "iceland",
+    "name": "Iceland",
+    "country": "Iceland",
+    "region": "Europe",
+    "tagline": "Waterfalls, lava & open roads",
+    "image": "assets/images/destinations/iceland.svg",
+    "dailyBudget": 220,
+    "recommendedDays": 7,
+    "bestTime": "Jun\u2013Sep \u00b7 Feb\u2013Mar",
+    "highlights": [
+      "Golden Circle",
+      "South Coast",
+      "Glacier lagoon"
+    ]
+  },
+  {
+    "slug": "dubai",
+    "name": "Dubai",
+    "country": "United Arab Emirates",
+    "region": "Middle East",
+    "tagline": "Skyline, desert & design",
+    "image": "assets/images/destinations/dubai.svg",
+    "dailyBudget": 210,
+    "recommendedDays": 4,
+    "bestTime": "Nov\u2013Mar",
+    "highlights": [
+      "Old Dubai",
+      "Desert evening",
+      "Marina skyline"
+    ]
+  },
+  {
+    "slug": "santorini",
+    "name": "Santorini",
+    "country": "Greece",
+    "region": "Europe",
+    "tagline": "Clifftop villages & Aegean blue",
+    "image": "assets/images/destinations/santorini.svg",
+    "dailyBudget": 175,
+    "recommendedDays": 4,
+    "bestTime": "Apr\u2013Jun \u00b7 Sep\u2013Oct",
+    "highlights": [
+      "Oia sunrise",
+      "Caldera trail",
+      "Winery sunset"
+    ]
+  },
+  {
+    "slug": "barcelona",
+    "name": "Barcelona",
+    "country": "Spain",
+    "region": "Europe",
+    "tagline": "Modernism, markets & Mediterranean",
+    "image": "assets/images/destinations/barcelona.svg",
+    "dailyBudget": 145,
+    "recommendedDays": 4,
+    "bestTime": "Apr\u2013Jun \u00b7 Sep\u2013Oct",
+    "highlights": [
+      "Sagrada Fam\u00edlia",
+      "Gothic Quarter",
+      "Montju\u00efc evening"
+    ]
+  },
+  {
+    "slug": "prague",
+    "name": "Prague",
+    "country": "Czechia",
+    "region": "Europe",
+    "tagline": "Gothic towers & riverside charm",
+    "image": "assets/images/destinations/prague.svg",
+    "dailyBudget": 110,
+    "recommendedDays": 3,
+    "bestTime": "Apr\u2013Jun \u00b7 Sep\u2013Oct",
+    "highlights": [
+      "Old Town dawn",
+      "Castle district",
+      "Vltava evening"
+    ]
+  },
+  {
+    "slug": "cape-town",
+    "name": "Cape Town",
+    "country": "South Africa",
+    "region": "Africa",
+    "tagline": "Mountain views & coastal drives",
+    "image": "assets/images/destinations/cape-town.svg",
+    "dailyBudget": 115,
+    "recommendedDays": 5,
+    "bestTime": "Nov\u2013Mar",
+    "highlights": [
+      "Table Mountain",
+      "Cape Peninsula",
+      "Winelands day"
+    ]
+  },
+  {
+    "slug": "kyoto",
+    "name": "Kyoto",
+    "country": "Japan",
+    "region": "Asia",
+    "tagline": "Temples, gardens & craft traditions",
+    "image": "assets/images/destinations/kyoto.svg",
+    "dailyBudget": 145,
+    "recommendedDays": 4,
+    "bestTime": "Mar\u2013May \u00b7 Oct\u2013Nov",
+    "highlights": [
+      "Fushimi Inari",
+      "Arashiyama morning",
+      "Gion evening"
+    ]
+  },
+  {
+    "slug": "vancouver",
+    "name": "Vancouver",
+    "country": "Canada",
+    "region": "North America",
+    "tagline": "Mountains meet the Pacific",
+    "image": "assets/images/destinations/vancouver.svg",
+    "dailyBudget": 180,
+    "recommendedDays": 4,
+    "bestTime": "May\u2013Sep",
+    "highlights": [
+      "Stanley Park",
+      "Granville Island",
+      "North Shore"
+    ]
+  }
+]
